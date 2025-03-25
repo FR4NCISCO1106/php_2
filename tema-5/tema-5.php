@@ -7,8 +7,7 @@
 </head>
 <body>
     <ol>
-        <li><a href="./pag1.php">ejercicio 1</a></li>
-
+        <li><a href="./index.php">ejercicio 1</a></li>
     </ol>
 </body>
 </html>
